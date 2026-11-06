@@ -1,0 +1,22 @@
+[
+  {
+    "query": "¿Qué certificación ISO tiene Rapanui para la calidad de sus chocolates?",
+    "expected_sources": ["Politicas de calidad"],
+    "expected_keywords": ["ISO 9001-2015", "IRAM"]
+  },
+  {
+    "query": "¿Cuáles son los beneficios laborales y descuentos para empleados?",
+    "expected_sources": ["Recursos Humanos y Beneficios Laborales"],
+    "expected_keywords": ["Sport Club", "cobertura médica", "descuentos"]
+  },
+  {
+    "query": "¿Qué plataforma digital utilizan para la comunicación interna con el personal?",
+    "expected_sources": ["Comunicación Interna y Cultura Organizacional"],
+    "expected_keywords": ["Humand", "recibos de sueldo"]
+  },
+  {
+    "query": "¿Cuál es la política respecto a la apertura de franquicias?",
+    "expected_sources": ["Política de Expansión Comercial"],
+    "expected_keywords": ["No Franquiciar", "exclusividad de propiedad"]
+  }
+]
